@@ -8,12 +8,12 @@ PLANEJAMENTO FINANCEIRO
 CIÊNCIA DA COMPUTAÇÃO
 
 ## Participantes
-> Arthur Braga de Campos Tinoco
-> Cecília Fernandes Silva Costa
-> David Gomes Vieira
-> Guilherme Meyer Guimarães
-> Henrique Guimarães e Silva
-> Henrique Lima da Cunha Pereira
+Arthur Braga de Campos Tinoco
+Cecília Fernandes Silva Costa
+David Gomes Vieira
+Guilherme Meyer Guimarães
+Henrique Guimarães e Silva
+Henrique Lima da Cunha Pereira
 
 # Estrutura do Documento
 
