@@ -1,18 +1,23 @@
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-718a45dd9cf7e7f842a935f5ebbe5719a5e09af4491e668f4dbf3b35d5cca122.svg)](https://classroom.github.com/online_ide?assignment_repo_id=10899516&assignment_repo_type=AssignmentRepo)
-# Nome do projeto
-Escreva um ou dois  parágrafo resumindo o objetivo do seu projeto.
+# Planejamento Financeiro
+A ideia, em sí, é ajudar pessoas a gerir seu próprio dinheiro, retirando aqueles que estiverem no vermelho, equilibrando os gastos com a respectiva renda do usuário e, para aqueles que estiverem com sobras, possibilitar um planejamento a cerca de como investir esse dinheiro, seja em uma aplicação, seja na compra de algum artigo de seu interesse, entre outros.
 
 ## Alunos integrantes da equipe
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
+* Arthur Braga de Campos Tinoco
+* Cecília Fernandes Silva Costa
+* David Gomes Vieira
+* Guilherme Meyer Guimarães
+* Henrique Guimarães e Silva
+* Henrique Lima da Cunha Pereira
+
 
 ## Professores responsáveis
 
-* Nome completo do professor 1
-* Nome completo do professor 2
+* Prof. Ilo Amy Saldanha Riveiro
+* Prof. Rafael Glater da Cruz Machado
+* Prof. Simone de Assis Alves da Silva
+
 
 ## Instruções de utilização
 
