@@ -1,21 +1,19 @@
 # Informações do Projeto
 `TÍTULO DO PROJETO`  
 
-......  COLOQUE AQUI O SEU TEXTO ......
+PLANEJAMENTO FINANCEIRO
 
 `CURSO` 
 
-......  COLOQUE AQUI O SEU TEXTO ......
+CIÊNCIA DA COMPUTAÇÃO
 
 ## Participantes
-
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> Inclua a lista dos membros da equipe com seus nomes completos.
->
-> Os membros do grupo são: 
-> - Fulano da Silva
-> - Ciclano Albuquerque
+> Arthur Braga de Campos Tinoco
+> Cecília Fernandes Silva Costa
+> David Gomes Vieira
+> Guilherme Meyer Guimarães
+> Henrique Guimarães e Silva
+> Henrique Lima da Cunha Pereira
 
 # Estrutura do Documento
 
