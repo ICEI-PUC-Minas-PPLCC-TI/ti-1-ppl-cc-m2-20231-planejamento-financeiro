@@ -54,7 +54,7 @@ CIÊNCIA DA COMPUTAÇÃO
 
 ## Problema
 
-......  COLOQUE AQUI O SEU TEXTO ......
+A ideia principal é atender as necessidades de pessoas com baixa renda, problemas de gestão financeira e/ou consumistas, afim de possibilitar o controle das prórpias despesas pessoais, ou seja, sair do "vermelho" e, assim, para as sobras que forem acumulando, pudessem auxiliar o indíviduo em questão no investimento seguro ou para realização de compras de artigos de seu gosto, por exemplo.
 
 > Nesse momento você deve apresentar o problema que a sua aplicação deve
 > resolver. No entanto, não é a hora de comentar sobre a aplicação.
@@ -74,7 +74,7 @@ CIÊNCIA DA COMPUTAÇÃO
 
 ## Objetivos
 
-......  COLOQUE AQUI O SEU TEXTO ......
+O interesse é fazer com que esse grupo pré-selecionado seja capacitado, por meio de indicações personalizadas, com base em informações coletadas do usuário, como por exempo, renda apróximada, gastos essenciais, últimas compras, entre outros.
 
 > Aqui você deve descrever os objetivos do trabalho indicando que o
 > objetivo geral é desenvolver um software para solucionar o problema
