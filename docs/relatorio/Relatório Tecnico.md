@@ -54,7 +54,7 @@ CIÊNCIA DA COMPUTAÇÃO
 
 ## Problema
 
-A ideia principal é atender as necessidades de pessoas com baixa renda, problemas de gestão financeira e/ou consumistas, afim de possibilitar o controle das prórpias despesas pessoais, ou seja, sair do "vermelho" e, assim, para as sobras que forem acumulando, pudessem auxiliar o indíviduo em questão no investimento seguro ou para realização de compras de artigos de seu gosto, por exemplo.
+[REFAZER] A ideia principal é atender as necessidades de pessoas com baixa renda, problemas de gestão financeira e/ou consumistas, afim de possibilitar o controle das prórpias despesas pessoais, ou seja, sair do "vermelho" e, assim, para as sobras que forem acumulando, pudessem auxiliar o indíviduo em questão no investimento seguro ou para realização de compras de artigos de seu gosto, por exemplo.
 
 > Nesse momento você deve apresentar o problema que a sua aplicação deve
 > resolver. No entanto, não é a hora de comentar sobre a aplicação.
@@ -74,7 +74,7 @@ A ideia principal é atender as necessidades de pessoas com baixa renda, problem
 
 ## Objetivos
 
-O interesse é fazer com que esse grupo pré-selecionado seja capacitado, por meio de indicações personalizadas, com base em informações coletadas do usuário, como por exempo, renda apróximada, gastos essenciais, últimas compras, entre outros.
+[REFAZER] O interesse é fazer com que esse grupo pré-selecionado seja capacitado, por meio de indicações personalizadas, com base em informações coletadas do usuário, como por exempo, renda apróximada, gastos essenciais, últimas compras, entre outros.
 
 > Aqui você deve descrever os objetivos do trabalho indicando que o
 > objetivo geral é desenvolver um software para solucionar o problema
@@ -103,7 +103,7 @@ O interesse é fazer com que esse grupo pré-selecionado seja capacitado, por me
 
 ## Público-Alvo
 
-......  COLOQUE AQUI O SEU TEXTO ......
+Para este projeto, é de total interesse do grupo no foco ao atendimento de 3(três) públicos-alvos, sendo esses: **pessoas com baixa renda, pessoas com dificuldade em gerir o próprio dinheiro e pessoas consumistas**. Desta forma, podemos capacitar à cada grupo, com experiências personalizadas às suas necessidades, formatos e soluções para retirar esses individuos do endividamento, criação de um fundo de emergência, opções de investimentos, sugestão de compra com base no histórico, dentre outros.
 
 > Descreva quem serão as pessoas que usarão a sua aplicação indicando os
 > diferentes perfis. O objetivo aqui não é definir quem serão os
