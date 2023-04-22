@@ -1,11 +1,11 @@
 # Informações do Projeto
 `TÍTULO DO PROJETO`  
 
-PLANEJAMENTO FINANCEIRO
+- PLANEJAMENTO FINANCEIRO
 
 `CURSO` 
 
-CIÊNCIA DA COMPUTAÇÃO
+ - CIÊNCIA DA COMPUTAÇÃO
 
 ## Participantes
 * Arthur Braga de Campos Tinoco  
@@ -105,17 +105,6 @@ CIÊNCIA DA COMPUTAÇÃO
 
 Para este projeto, é de total interesse do grupo no foco ao atendimento de 3(três) públicos-alvos, sendo esses: **pessoas com baixa renda, pessoas com dificuldade em gerir o próprio dinheiro e pessoas consumistas**. Desta forma, podemos capacitar à cada grupo, com experiências personalizadas às suas necessidades, formatos e soluções para retirar esses individuos do endividamento, criação de um fundo de emergência, opções de investimentos, sugestão de compra com base no histórico, dentre outros.
 
-> Descreva quem serão as pessoas que usarão a sua aplicação indicando os
-> diferentes perfis. O objetivo aqui não é definir quem serão os
-> clientes ou quais serão os papéis dos usuários na aplicação. A ideia
-> é, dentro do possível, conhecer um pouco mais sobre o perfil dos
-> usuários: conhecimentos prévios, relação com a tecnologia, relações
-> hierárquicas, etc.
->
-> Adicione informações sobre o público-alvo por meio de uma descrição
-> textual, ou diagramas de personas, mapa de stakeholders, ou como o
-> grupo achar mais conveniente.
-> 
 > **Links Úteis**:
 > - [Público-alvo: o que é, tipos, como definir seu público e exemplos](https://klickpages.com.br/blog/publico-alvo-o-que-e/)
 > - [Qual a diferença entre público-alvo e persona?](https://rockcontent.com/blog/diferenca-publico-alvo-e-persona/)
