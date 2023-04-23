@@ -1,11 +1,5 @@
-# Informações do Projeto
-`TÍTULO DO PROJETO`  
-
-- PLANEJAMENTO FINANCEIRO
-
-`CURSO` 
-
- - CIÊNCIA DA COMPUTAÇÃO
+# Planejamento Financeiro
+`Projeto Futurizando | CIÊNCIAS DA COMPUTAÇÃO | 1° Semestre/2023 `
 
 ## Participantes
 * Arthur Braga de Campos Tinoco  
