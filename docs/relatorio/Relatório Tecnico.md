@@ -90,15 +90,11 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 |Carlos  | Agilidade em organizar finanças           | Não esquecer de fazê-las               |
 |Carlos       | Alertas sobre gastos                 | Evitar que haja excesso nas contas mensais |
 |Carlos       | Planejar as férias                 | Permitir que haja uma economia adequada durante o ano |
-|Maria Clara       | Alterar permissões                 | Permitir que possam administrar contas |
-|Maria Clara      | Alterar permissões                 | Permitir que possam administrar contas |
-|Maria Clara       | Alterar permissões                 | Permitir que possam administrar contas |
-|Erick      | Alterar permissões                 | Permitir que possam administrar contas |
-|Erick      | Alterar permissões                 | Permitir que possam administrar contas |
-|Erick      | Alterar permissões                 | Permitir que possam administrar contas |
-> **Links Úteis**:
-> - [Histórias de usuários com exemplos e template](https://www.atlassian.com/br/agile/project-management/user-stories)
-> - [Como escrever boas histórias de usuário (User Stories)](https://medium.com/vertice/como-escrever-boas-users-stories-hist%C3%B3rias-de-usu%C3%A1rios-b29c75043fac)
+|Maria Clara       | entender melhor o mercado financeiro                 | investir e conseguir uma renda a mais com certa segurança |
+|Maria Clara      | ter mais opção na hora de pagar                 | Não ficar encurralada sobre possíveis multas com juros altos |
+|Maria Clara       | Planejar suas compras                 | Gradualmente ir comprando, com base na prioridade e valor, aquilo que é de seu interesse|
+|Erick      | Gastar menos                 | Não se manipular e ficar sem nada no fim do mês |
+|Erick      | Praticidade em implementar suas finanças                 | Não ficar agarrado e ter uma facilidade em entender seu dinheiro na hora de organizar |
 
 ## Requisitos
 
