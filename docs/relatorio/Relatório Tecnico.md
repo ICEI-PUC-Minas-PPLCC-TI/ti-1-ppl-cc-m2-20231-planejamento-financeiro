@@ -58,16 +58,7 @@ Sob o contexto vivenciado na economia e na população brasileira, durante os ú
 
 ## Objetivos
 
-[REFAZER] O interesse é fazer com que esse grupo pré-selecionado seja capacitado, por meio de indicações personalizadas, com base em informações coletadas do usuário, como por exempo, renda apróximada, gastos essenciais, últimas compras, entre outros.
-
-> Aqui você deve descrever os objetivos do trabalho indicando que o
-> objetivo geral é desenvolver um software para solucionar o problema
-> apresentado acima. Apresente também alguns (pelo menos 2) objetivos
-> específicos dependendo de onde você vai querer concentrar a sua
-> prática investigativa, ou como você vai aprofundar no seu trabalho.
-> 
-> **Links Úteis**:
-> - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
+Como matriz do nosso projeto, pretendemos desenvolver uma aplicação web, de certa forma parecida com as funcionalidades do "Microsoft Excel", afim de prover, de forma responsiva e direta, um planejamento personalidade e atento às necessidades do usuário, seja quais forem as demandas, além como forma de compreensão sobre as finanças próprias, quais urgências atender e o que pode ser deixado para uma futura compra.
 
 ## Justificativa
 
