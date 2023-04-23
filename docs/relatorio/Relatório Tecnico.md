@@ -187,6 +187,7 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 Para divisão do trabalho, é decidido que o componente `Henrique Lima da Cunha Pereira` seja o Scrum Master, tendo a liderança sobre o projeto e buscando a motivação do grupo como um todo para a produção da solução da problemática. Como Product Owner, ficou acordado que o componente `Nome` tomasse por essa parte, coordenando as tarefas registrando-as no site *Trello*. Os desenvolvedores, por fim, serão os componentes `Nome`, `Nome`, `Nome` e `Nome`, responsáveis pela formatação e estruturação da aplicação web a ser desenvolvida no semestre.
 
+Link do site: https://trello.com/b/45zMzF7W/área-de-trabalho
 
 ## Ferramentas
 
@@ -196,7 +197,8 @@ Para divisão do trabalho, é decidido que o componente `Henrique Lima da Cunha 
 |Repositório de código | GitHub | https://github.com/ICEI-PUC-Minas-PPLCC-TI/ti-1-ppl-cc-m2-20231-planejamento-financeiro/tree/master/codigo | 
 |Protótipo Interativo | Figma | https://www.figma.com/file/t2Q10paPmVpPQvPUGNZHgO/Untitled?node-id=0%3A1&t=5St5OME1WnknA65k-1 |
 | Apresentação do grupo | Canva | https://www.canva.com/design/DAFgliD4tRo/91ohZSLe3EDAVMoGCV5XUg/edit?utm_content=DAFgliD4tRo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton |
-|Hospedagem do site | GitHub Pages | *pendente* | 
+| Divisão de tarefas | Trello | https://trello.com/b/45zMzF7W/área-de-trabalho |
+| Hospedagem do site | GitHub Pages | *pendente* | 
 | Ferramente de comunicação | WhatsApp |  |
 | Editor do Código | Visual Studio Code | |
 
