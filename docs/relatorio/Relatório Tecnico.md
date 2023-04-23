@@ -216,37 +216,15 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 ## Ferramentas
 
-......  COLOQUE AQUI O SEU TEXTO - SIGA O EXEMPLO DA TABELA ABAIXO  ......
-
 | Ambiente  | Plataforma              |Link de Acesso |
 |-----------|-------------------------|---------------|
-|Processo de Design Thinkgin  | Miro | https://miro.com/app/board/uXjVMYCYaT4=/ | 
+|Processo de Design Thinkgin  | Miro | https://miro.com/app/board/uXjVMYCYaT4=/ |
 |Repositório de código | GitHub | https://github.com/ICEI-PUC-Minas-PPLCC-TI/ti-1-ppl-cc-m2-20231-planejamento-financeiro/tree/master/codigo | 
+|Protótipo Interativo | Figma | https://www.figma.com/file/t2Q10paPmVpPQvPUGNZHgO/Untitled?node-id=0%3A1&t=5St5OME1WnknA65k-1 |
+| Apresentação do grupo | Canva | https://www.canva.com/design/DAFgliD4tRo/91ohZSLe3EDAVMoGCV5XUg/edit?utm_content=DAFgliD4tRo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton |
 |Hospedagem do site | GitHub Pages | *pendente* | 
-|Protótipo Interativo | Figma | https://www.figma.com/file/t2Q10paPmVpPQvPUGNZHgO/Untitled?node-id=0%3A1&t=5St5OME1WnknA65k-1 | 
-
->
-> Liste as ferramentas empregadas no desenvolvimento do
-> projeto, justificando a escolha delas, sempre que possível.
-> 
-> As ferramentas empregadas no projeto são:
-> 
-> - Editor de código.
-> - Ferramentas de comunicação
-> - Ferramentas de diagramação
-> - Plataforma de hospedagem
-> 
-> O editor de código foi escolhido porque ele possui uma integração com o
-> sistema de versão. As ferramentas de comunicação utilizadas possuem
-> integração semelhante e por isso foram selecionadas. Por fim, para criar
-> diagramas utilizamos essa ferramenta por melhor captar as
-> necessidades da nossa solução.
-> 
-> **Links Úteis - Hospedagem**:
-> - [Getting Started with Heroku](https://devcenter.heroku.com/start)
-> - [Crie seu Site com o HostGator](https://www.hostgator.com.br/como-publicar-seu-site)
-> - [GoDady](https://br.godaddy.com/how-to)
-> - [GitHub Pages](https://pages.github.com/)
+| Ferramente de comunicação | WhatsApp |  |
+| Editor do Código | Visual Studio Code | |
 
 ## Controle de Versão
 
