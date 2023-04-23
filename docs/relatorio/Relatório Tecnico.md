@@ -29,8 +29,8 @@
 - [Projeto de Interface](#projeto-de-interface)
   - [User Flow](#user-flow)
   - [Wireframes](#wireframes)
-- [Metodologia](#metodologia)
-  - [Divisão de Papéis](#divisão-de-papéis)
+- [Metodologia](#metodologia-e-divisão-de-papeis)
+  - [Divisão de Papéis](#metodologia-e-divisão-de-papeis)
   - [Ferramentas](#ferramentas)
   - [Controle de Versão](#controle-de-versão)
 - [**############## SPRINT 1 ACABA AQUI #############**](#-sprint-1-acaba-aqui-)
@@ -183,7 +183,7 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 > ![Exemplo de Wireframe](images/wireframe-example.png)
 
 
-# Metodologia & Divisão de Papéis
+# Metodologia e Divisão de Papeis
 
 Para divisão do trabalho, é decidido que o componente `Henrique Lima da Cunha Pereira` seja o Scrum Master, tendo a liderança sobre o projeto e buscando a motivação do grupo como um todo para a produção da solução da problemática. Como Product Owner, ficou acordado que o componente `Nome` tomasse por essa parte, coordenando as tarefas registrando-as no site *Trello*. Os desenvolvedores, por fim, serão os componentes `Nome`, `Nome`, `Nome` e `Nome`, responsáveis pela formatação e estruturação da aplicação web a ser desenvolvida no semestre.
 
