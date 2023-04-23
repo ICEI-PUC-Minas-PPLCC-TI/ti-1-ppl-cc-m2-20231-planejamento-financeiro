@@ -103,45 +103,25 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
-|RF-001| Permitir que o usuário personalize suas necessidades | ALTA | 
-|RF-002| Emitir um relatório de tarefas no mês   | MÉDIA |
-|RF-003| Emitir um relatório de tarefas no mês   | MÉDIA |
-|RF-004| Emitir um relatório de tarefas no mês   | MÉDIA |
-|RF-005| Emitir um relatório de tarefas no mês   | MÉDIA |
-|RF-006| Emitir um relatório de tarefas no mês   | MÉDIA |
-|RF-007| Emitir um relatório de tarefas no mês   | MÉDIA |
-|RF-008| Emitir um relatório de tarefas no mês   | MÉDIA |
-|RF-009| Emitir um relatório de tarefas no mês   | MÉDIA |
-|RF-010| Emitir um relatório de tarefas no mês   | MÉDIA |
+|RF-001| Cadastro do usuário | ALTA | 
+|RF-002| Permitir que o usuário personalize suas necessidades | ALTA |
+|RF-003| Informações sobre a entrada/saída de dinheiro   | ALTA |
+|RF-004| Alertas de gasto excessivos/dicas para controle  | ALTA |
+|RF-005| Histórico de compras   | MÉDIA |
+|RF-006| Lista de desejos/planejador de sonhos   | MÉDIA |
+|RF-007| Acesso a investimentos e informações simplificadas sobre o mercado financeiro   | MÉDIA |
+|RF-008| Formato de pagamento   | BAIXO |
 
 ### Requisitos não Funcionais
 
 |ID     | Descrição do Requisito  |Prioridade |
 |-------|-------------------------|----|
-|RNF-001| O sistema deve ser responsivo para rodar em um dispositivos móvel | MÉDIA | 
-|RNF-002| Deve processar requisições do usuário em no máximo 3s |  BAIXA | 
-
-> Com base nas Histórias de Usuário, enumere os requisitos da sua
-> solução. Classifique esses requisitos em dois grupos:
->
-> - [Requisitos Funcionais (RF)](https://pt.wikipedia.org/wiki/Requisito_funcional):
->   correspondem a uma funcionalidade que deve estar presente na
->   plataforma (ex: cadastro de usuário).
->
-> - [Requisitos Não Funcionais (RNF)](https://pt.wikipedia.org/wiki/Requisito_n%C3%A3o_funcional):
->   correspondem a uma característica técnica, seja de usabilidade,
->   desempenho, confiabilidade, segurança ou outro (ex: suporte a
->   dispositivos iOS e Android).
->
-> Lembre-se que cada requisito deve corresponder à uma e somente uma
-> característica alvo da sua solução. Além disso, certifique-se de que
-> todos os aspectos capturados nas Histórias de Usuário foram cobertos.
-> 
-> **Links Úteis**:
-> 
-> - [O que são Requisitos Funcionais e Requisitos Não Funcionais?](https://codificar.com.br/requisitos-funcionais-nao-funcionais/)
-> - [O que são requisitos funcionais e requisitos não funcionais?](https://analisederequisitos.com.br/requisitos-funcionais-e-requisitos-nao-funcionais-o-que-sao/)
-
+|RNF-001| O algortimo deve planejar quais as prioridades daquele indivíduo  | ALTA |
+|RNF-002| O sistema deve ser responsivo para rodar em um dispositivos móvel | MÉDIA |
+|RNF-003| Automatizar o processo de verificação para entrada/saída de capital | MÉDIA |
+|RNF-004| Interconexão com diversos formatos de investimentos para atender casos diversos de usuários | MÉDIA |
+|RNF-005| Sugerir correções/reclamações sobre planejamentos/processos mal-executados/desconforme à necessidade do usuário | MÉDIA |
+|RNF-006| Deve processar requisições do usuário em no máximo 3s |  BAIXA | 
 
 ## Restrições
 
