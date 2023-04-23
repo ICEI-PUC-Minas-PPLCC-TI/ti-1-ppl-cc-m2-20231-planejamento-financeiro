@@ -137,12 +137,7 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 # Projeto de Interface
 
-......  COLOQUE AQUI O SEU TEXTO DE INTRODUÇÃO ......
-
-> Apresente as principais interfaces da solução. Discuta como 
-> foram elaboradas de forma a atender os requisitos funcionais, não
-> funcionais e histórias de usuário abordados nas [Especificações do
-> Projeto](#especificações-do-projeto).
+Para concretizar na solução da aplicação, deve-se buscar atender, com responsabilidade e compromisso, à necessidade do usuário, sobretudo se sua ideia for sair do vermelho ou expandir a forma de ganhar dinheiro e planejar como será feito. Assim, é necessário que o usuário forneça seus dados, como renda aproximada, principais gastos e seus custos, além de pesquisas comportamentais para definir como esse usuário deverá ser guiado durante o percuso na aplicação. Capacitar a entrada/saída de capital para compreender o quanto foi gasto, se está dentro de suas economias e alertar o mesmo quando passar do limite, além de aletar quando alguma conta essencial estiver próxima a vencer. Garantir acesso integral a investimentos, orientando da melhor forma, quais são as melhores opções, a possibilidade de retorno, e muito mais.
 
 ## User Flow
 > ![UserFlow](images/user_flow.png)
