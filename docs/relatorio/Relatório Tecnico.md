@@ -67,18 +67,18 @@ Para este projeto, é de total interesse do grupo no foco ao atendimento de 3(tr
 A partir daqui, será utilizado as ferramentas e propriedades do Design Thinking para filtrar as personas, como parâmetros de proposta de valor, além de entrevistas com potenciais usuários e feedbecks interativos que ajudam a esclarecer ideias.
 
 ## Personas, Empatia e Proposta de Valor
+* Para melhor explicação e detalhamento, acesse o link do Design Thinking realizado na plataforma Miro: https://miro.com/app/board/uXjVMYCYaT4=/
 > **Persona 1 - Nome**
 > 
 > ![Exemplo de Persona](images/persona.png)
-> ![Exemplo da Proposta de Valor](images/proposta_valor.png)
+> 
 > **Persona 2 - Nome**
 > 
 > ![Exemplo de Persona](images/persona.png)
-> ![Exemplo da Proposta de Valor](images/proposta_valor.png)
+> 
 > **Persona 3 - Nome**
 > 
 > ![Exemplo de Persona](images/persona.png)
-> ![Exemplo da Proposta de Valor](images/proposta_valor.png)
 
 
 ## Histórias de Usuários
