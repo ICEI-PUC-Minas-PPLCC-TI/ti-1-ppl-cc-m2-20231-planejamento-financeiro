@@ -157,7 +157,7 @@ Para concretizar na solução da aplicação, deve-se buscar atender, com respon
 
 # Metodologia e Divisão de Papeis
 
-Para divisão do trabalho, é decidido que o componente `Henrique Lima da Cunha Pereira` seja o Scrum Master, tendo a liderança sobre o projeto e buscando a motivação do grupo como um todo para a produção da solução da problemática. Como Product Owner, ficou acordado que o componente `Nome` tomasse por essa parte, coordenando as tarefas registrando-as no site *Trello*. Os desenvolvedores, por fim, serão os componentes `Arthur Braga de Campos Tinoco`, `Nome`, `Nome` e `Nome`, responsáveis pela formatação e estruturação da aplicação web a ser desenvolvida no semestre.
+Para divisão do trabalho, é decidido que o componente `Henrique Lima da Cunha Pereira` seja o Scrum Master, tendo a liderança sobre o projeto e buscando a motivação do grupo como um todo para a produção da solução da problemática. Como Product Owner, ficou acordado que o componente `Cecília Fernandes Silva Costa` tomasse por essa parte, coordenando as tarefas registrando-as no site *Trello*. Os desenvolvedores, por fim, serão os componentes `Arthur Braga de Campos Tinoco`, `David Gomes Vieira`, `Guilherme Meyer Guimarães` e `Henrique Guimarães e Silva`, responsáveis pela formatação e estruturação da aplicação web a ser desenvolvida no semestre.
 
 Link do site: https://trello.com/b/45zMzF7W/área-de-trabalho
 
