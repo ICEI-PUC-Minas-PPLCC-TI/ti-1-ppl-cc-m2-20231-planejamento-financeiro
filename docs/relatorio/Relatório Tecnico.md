@@ -221,7 +221,7 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 | Ambiente  | Plataforma              |Link de Acesso |
 |-----------|-------------------------|---------------|
 |Processo de Design Thinkgin  | Miro | https://miro.com/app/board/uXjVMYCYaT4=/ | 
-|Repositório de código | GitHub | https://github.com/XXXXXXX | 
+|Repositório de código | GitHub | https://github.com/ICEI-PUC-Minas-PPLCC-TI/ti-1-ppl-cc-m2-20231-planejamento-financeiro/tree/master/codigo | 
 |Hospedagem do site | GitHub Pages | *pendente* | 
 |Protótipo Interativo | Figma | https://www.figma.com/file/t2Q10paPmVpPQvPUGNZHgO/Untitled?node-id=0%3A1&t=5St5OME1WnknA65k-1 | 
 
