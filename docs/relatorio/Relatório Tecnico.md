@@ -80,7 +80,6 @@ A partir daqui, será utilizado as ferramentas e propriedades do Design Thinking
 > 
 > ![Exemplo de Persona](images/Persona%20(2).png)
 
-
 ## Histórias de Usuários
 
 Com base na análise das personas forma identificadas as seguintes histórias de usuários:
@@ -104,9 +103,16 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
-|RF-001| Permitir que o usuário cadastre tarefas | ALTA | 
+|RF-001| Permitir que o usuário personalize suas necessidades | ALTA | 
 |RF-002| Emitir um relatório de tarefas no mês   | MÉDIA |
-
+|RF-003| Emitir um relatório de tarefas no mês   | MÉDIA |
+|RF-004| Emitir um relatório de tarefas no mês   | MÉDIA |
+|RF-005| Emitir um relatório de tarefas no mês   | MÉDIA |
+|RF-006| Emitir um relatório de tarefas no mês   | MÉDIA |
+|RF-007| Emitir um relatório de tarefas no mês   | MÉDIA |
+|RF-008| Emitir um relatório de tarefas no mês   | MÉDIA |
+|RF-009| Emitir um relatório de tarefas no mês   | MÉDIA |
+|RF-010| Emitir um relatório de tarefas no mês   | MÉDIA |
 
 ### Requisitos não Funcionais
 
