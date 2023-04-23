@@ -62,27 +62,11 @@ Como matriz do nosso projeto, pretendemos desenvolver uma aplicação web, de ce
 
 ## Justificativa
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> Descreva a importância ou a motivação para trabalhar com esta aplicação
-> que você escolheu. Indique as razões pelas quais você escolheu seus
-> objetivos específicos ou as razões para aprofundar em certos aspectos
-> do software.
-> 
-> O grupo de trabalho pode fazer uso de questionários, entrevistas e
-> dados estatísticos, que podem ser apresentados, com o objetivo de
-> esclarecer detalhes do problema que será abordado pelo grupo.
->
-> **Links Úteis**:
-> - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
+É de grande comoção o momento atual que o país passa, sobretudo economicamente, em que o custo de vida nunca esteve tão alto como nesse momento, durante os últimos 10 anos. Desta forma, como proposta envolvida a área da computação, pode ser visto uma possibilidade de concentrar esforços sobre esses indivíduos, afim de amenizar os impactos gerados pela alta dos juros, inflação alta e desvalorização do salário mínimo, contribuindo não apenas com a população endividada, quanto também uma possibilidade de informar e perpetuar boas práticas de educação financeira.
 
 ## Público-Alvo
 
 Para este projeto, é de total interesse do grupo no foco ao atendimento de 3(três) públicos-alvos, sendo esses: **pessoas com baixa renda, pessoas com dificuldade em gerir o próprio dinheiro e pessoas consumistas**. Desta forma, podemos capacitar à cada grupo, com experiências personalizadas às suas necessidades, formatos e soluções para retirar esses individuos do endividamento, criação de um fundo de emergência, opções de investimentos, sugestão de compra com base no histórico, dentre outros.
-
-> **Links Úteis**:
-> - [Público-alvo: o que é, tipos, como definir seu público e exemplos](https://klickpages.com.br/blog/publico-alvo-o-que-e/)
-> - [Qual a diferença entre público-alvo e persona?](https://rockcontent.com/blog/diferenca-publico-alvo-e-persona/)
  
 # Especificações do Projeto
 
