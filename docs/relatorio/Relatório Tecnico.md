@@ -54,23 +54,7 @@
 
 ## Problema
 
-[REFAZER] A ideia principal é atender as necessidades de pessoas com baixa renda, problemas de gestão financeira e/ou consumistas, afim de possibilitar o controle das prórpias despesas pessoais, ou seja, sair do "vermelho" e, assim, para as sobras que forem acumulando, pudessem auxiliar o indíviduo em questão no investimento seguro ou para realização de compras de artigos de seu gosto, por exemplo.
-
-> Nesse momento você deve apresentar o problema que a sua aplicação deve
-> resolver. No entanto, não é a hora de comentar sobre a aplicação.
-> Descreva também o contexto em que essa aplicação será usada, se
-> houver: empresa, tecnologias, etc. Novamente, descreva apenas o que de
-> fato existir, pois ainda não é a hora de apresentar requisitos
-> detalhados ou projetos.
->
-> Nesse momento, o grupo pode optar por fazer uso
-> de ferramentas como Design Thinking, que permite um olhar de ponta a
-> ponta para o problema.
->
-> **Links Úteis**:
-> - [Objetivos, Problema de pesquisa e Justificativa](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
-> - [Matriz Certezas, Suposições e Dúvidas](https://medium.com/educa%C3%A7%C3%A3o-fora-da-caixa/matriz-certezas-suposi%C3%A7%C3%B5es-e-d%C3%BAvidas-fa2263633655)
-> - [Brainstorming](https://www.euax.com.br/2018/09/brainstorming/)
+Sob o contexto vivenciado na economia e na população brasileira, durante os últimos 10 anos, viu-se muito da subvalorização do Real sobre os demais produtos/artigos comprados diariamente, como alimentos, vestuário, equipamentos eletrônicos, entre outros. Gastos considerados essenciais, como água, luz, moradia, aluguel, plano de saúde, subiram a um ritmo gritante, durante esse período, o que ocasionou em um amplo endividamento da população, principalmente às classes mais carentes.
 
 ## Objetivos
 
