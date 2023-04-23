@@ -149,16 +149,16 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 ## Wireframes 
 
-> ![Wireframe_1](images/wireframe_1.png)
-> ![Wireframe_2](images/wireframe_2.png)
-> ![Wireframe_3](images/wireframe_3.png)
-> ![Wireframe_4](images/wireframe_4.png)
-> ![Wireframe_5](images/wireframe_5.png)
-> ![Wireframe_6](images/wireframe_6.png)
-> ![Wireframe_7](images/wireframe_7.png)
-> ![Wireframe_8](images/wireframe_8.png)
-> ![Wireframe_9](images/wireframe_9.png)
-> ![Wireframe_10](images/wireframe_10.png)
+> ![Wireframe_1](images/Wireframe_1.png)
+> ![Wireframe_2](images/Wireframe_2.png)
+> ![Wireframe_3](images/Wireframe_3.png)
+> ![Wireframe_4](images/Wireframe_4.png)
+> ![Wireframe_5](images/Wireframe_5.png)
+> ![Wireframe_6](images/Wireframe_6.png)
+> ![Wireframe_7](images/Wireframe_7.png)
+> ![Wireframe_8](images/Wireframe_8.png)
+> ![Wireframe_9](images/Wireframe_9.png)
+> ![Wireframe_10](images/Wireframe_10.png)
 
 # Metodologia e Divisão de Papeis
 
