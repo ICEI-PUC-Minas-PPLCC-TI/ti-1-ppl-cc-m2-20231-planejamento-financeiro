@@ -64,41 +64,20 @@ Para este projeto, é de total interesse do grupo no foco ao atendimento de 3(tr
  
 # Especificações do Projeto
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> Apresente uma visão geral do que será abordado nesta parte do
-> documento, enumerando as técnicas e/ou ferramentas utilizadas para
-> realizar a especificações do projeto
+A partir daqui, será utilizado as ferramentas e propriedades do Design Thinking para filtrar as personas, como parâmetros de proposta de valor, além de entrevistas com potenciais usuários e feedbecks interativos que ajudam a esclarecer ideias.
 
 ## Personas, Empatia e Proposta de Valor
-
-......  COLOQUE AQUI O SEU TEXTO ......
-
-
-> Relacione as personas identificadas no seu projeto, os respectivos mapas de empatia e 
-> mapas da proposta de valor. Lembre-se que você deve ser enumerar e descrever precisamente 
-> e de forma personalizada todos os principais envolvidos com a solução almeja. 
-> 
-> Para tanto, baseie-se tanto nos documentos disponibilizados na disciplina
-> e/ou nos seguintes links:
->
-> **Links Úteis**:
-> - [Persona x Público-alvo](https://flammo.com.br/blog/persona-e-publico-alvo-qual-a-diferenca/)
-> - [O que é persona?](https://resultadosdigitais.com.br/blog/persona-o-que-e/)
-> - [Rock Content](https://rockcontent.com/blog/personas/)
-> - [Hotmart](https://blog.hotmart.com/pt-br/como-criar-persona-negocio/)
-> - [Mapa de Empatia](https://resultadosdigitais.com.br/blog/mapa-da-empatia/)
-> - [Como fazer um mapa de empatia - Vídeo](https://www.youtube.com/watch?v=JlKHGpVoA2Y)
-> - [Canvas da Proposta de Valor](https://analistamodelosdenegocios.com.br/canvas-da-proposta-de-valor/)
-> 
-> 
-> **Exemplo de Persona**
+> **Persona 1 - Nome**
 > 
 > ![Exemplo de Persona](images/persona.png)
+> ![Exemplo da Proposta de Valor](images/proposta_valor.png)
+> **Persona 2 - Nome**
 > 
-> Fonte: [Como criar uma persona para o seu negócio](https://raissaviegas.com.br/como-criar-uma-persona/)
->
-> **Exemplo de Proposta de Valor**
+> ![Exemplo de Persona](images/persona.png)
+> ![Exemplo da Proposta de Valor](images/proposta_valor.png)
+> **Persona 3 - Nome**
+> 
+> ![Exemplo de Persona](images/persona.png)
 > ![Exemplo da Proposta de Valor](images/proposta_valor.png)
 
 
