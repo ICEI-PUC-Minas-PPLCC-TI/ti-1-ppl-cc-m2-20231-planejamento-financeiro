@@ -68,17 +68,17 @@ A partir daqui, será utilizado as ferramentas e propriedades do Design Thinking
 
 ## Personas, Empatia e Proposta de Valor
 * Para melhor explicação e detalhamento, acesse o link do Design Thinking realizado na plataforma Miro: https://miro.com/app/board/uXjVMYCYaT4=/
-> **Persona 1 - Nome**
+> **Persona 1 - Carlos**
 > 
-> ![Exemplo de Persona](images/persona.png)
+> ![Exemplo de Persona](images/Persona.png)
 > 
-> **Persona 2 - Nome**
+> **Persona 2 - Maria Clara**
 > 
-> ![Exemplo de Persona](images/persona.png)
+> ![Exemplo de Persona](images/Persona%20(1).png)
 > 
-> **Persona 3 - Nome**
+> **Persona 3 - Erick**
 > 
-> ![Exemplo de Persona](images/persona.png)
+> ![Exemplo de Persona](images/Persona%20(2).png)
 
 
 ## Histórias de Usuários
