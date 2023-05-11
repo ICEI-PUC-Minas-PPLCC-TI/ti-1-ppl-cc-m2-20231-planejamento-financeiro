@@ -107,11 +107,11 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |RF-002| Permitir que o usuário personalize suas necessidades | ALTA |
 |RF-003| Informações sobre a entrada/saída de dinheiro   | ALTA |
 |RF-004| Alertas de gasto excessivos/dicas para controle  | ALTA |
-|RF-005| Histórico de compras   | MÉDIA |
+|RF-005| XXXX   | MÉDIA |
 |RF-006| Lista de desejos/planejador de sonhos   | MÉDIA |
 |RF-007| Acesso a investimentos e informações simplificadas sobre o mercado financeiro   | MÉDIA |
 |RF-008| Formatos de Pagamentos   | BAIXO |
-|RF-009| XXXX   | XXXX |
+|RF-009| Arquitetura de Gráficos  | MÉDIO |
 |RF-010| XXXX   | XXXX |
 |RF-011| XXXX   | XXXX |
 |RF-012| XXXX   | XXXX |
