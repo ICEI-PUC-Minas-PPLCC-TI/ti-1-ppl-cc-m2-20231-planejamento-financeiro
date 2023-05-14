@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Funcionalidade recomendação</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@700&family=VT323&display=swap" rel="stylesheet"> 
+    <link rel="stylesheet" href="./assets/style/style.css">
+    <script src="./assets/script/DataHandler.js"></script>
+    <script src="./assets/script/constructLayoutInfo.js" defer></script>
+</head>
+<body>
+    <header>
+        <div id="profile-pic-container">
+            <img src="./assets/images/profile_pic_icon.svg">
+        </div>
+        <div id="input-container" class="flex-end-container">
+            <div id="input-data-container" class="data-container">
+                <div></div>
+                <img src="./assets/images/input_icon.svg" class="positive-currency">
+                <div class="currency-info">
+                    <p>Entrada</p>
+                    <p class="positive-currency">$0.00</p>
+                </div>
+            </div>
+        </div>
+        <div id="currency-container">
+            <div id="currency-container-info">
+                <select>
+                    <optgroup>
+                        <option value="1">Janeiro</option>
+                        <option value="2">Fevereiro</option>
+                        <option value="3">Março</option>
+                        <option value="4">Abril</option>
+                        <option value="5">Maio</option>
+                        <option value="6">Junho</option>
+                        <option value="7">Julho</option>
+                        <option value="8">Agosto</option>
+                        <option value="9">Setembro</option>
+                        <option value="10">Outubro</option>
+                        <option value="11">Novembro</option>
+                        <option value="12">Dezembro</option>
+                    </optgroup>
+                </select>
+                <h1 id="currency-title">
+                    Saldo
+                </h1>
+                <h1 id="actual-currency" class="positive-currency">
+                    $0.00
+                </h1>
+            </div>
+        </div>
+        <div id="output-container" class="flex-end-container">
+            <div></div>
+            <div id="output-data-container" class="data-container">
+                <img src="./assets/images/output_icon.svg" class="negative-currency">
+                <div class="currency-info">
+                    <p>Saida</p>
+                    <p class="negative-currency">$0.00</p>
+                </div>
+            </div>
+        </div>
+    </header>
+    <section>
+        <div id="back-button">
+            <img src="./assets/images/back_button_icon.svg" alt="x">
+        </div>
+    </section>
+    <footer>
+        <img src="./assets/images/add_icon.svg">
+        <img src="./assets/images/graph_icon.svg">
+    </footer>
+</body>
+</html>
