@@ -97,12 +97,49 @@ footer img{
     margin-top: 5px;
 }
 
-#back-button{
+#user-info-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    width: 75%;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    position: absolute;
+    background-color: white;
+    border: 1px solid black;
+    border-radius: 10px;
+    height: 75%;
+}
+
+#user-info-container h1{
+    font-family: var(--default-text-font);
+    font-size: 56px;
+}
+
+#user-info-image{
+    width: 128px;
+    height: 128px;
+    border-radius: 100%;
+}
+
+#user-info-container button{
+    margin-bottom: 100px;
+    width: 128px;
+    height: 64px;
+    border-radius: 50px;
+    border: 1px solid black;
+    background-color: #00FFC2;
+    font-family: var(--default-text-font);
+}
+
+.back-button{
     width: calc(100% - 15px);
     margin-left: 15px;
 }
 
-#back-button img{
+.back-button img{
     width: 32px;
 }
 
@@ -153,4 +190,9 @@ footer img{
 .rec-image{
     width: 128px;
     height: 128px;
+}
+
+.blur-filter{
+    filter: blur(5px);
+    pointer-events: none;
 }

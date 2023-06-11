@@ -4,13 +4,15 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Funcionalidade recomendação</title>
+    <title>Funcionalidade foto de perfil clicavel</title>
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@700&family=VT323&display=swap" rel="stylesheet"> 
     <link rel="stylesheet" href="./assets/style/style.css">
-    <script src="./assets/script/DataHandler.js"></script>
-    <script src="./assets/script/constructLayoutInfo.js" defer></script>
+    <script src="./assets/script/recSystem/DataHandler.js"></script>
+    <script src="./assets/script/clickableProfilePicSystem/UserBasicInfoDataHandler.js"></script>
+    <script src="./assets/script/recSystem/constructLayoutInfo.js" defer></script>
+    <script src="./assets/script/clickableProfilePicSystem/clickableProfilePic.js" defer></script>
 </head>
 <body>
     <header>
@@ -65,7 +67,7 @@
         </div>
     </header>
     <section>
-        <div id="back-button">
+        <div class="back-button">
             <img src="./assets/images/back_button_icon.svg" alt="x">
         </div>
     </section>
@@ -73,5 +75,6 @@
         <img src="./assets/images/add_icon.svg">
         <img src="./assets/images/graph_icon.svg">
     </footer>
+    
 </body>
 </html>
