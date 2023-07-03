@@ -299,3 +299,21 @@ class CommonElementsUtils {
         </div>
 
 */ 
+
+/*
+    <div class="currency-container">
+            <div class="currency-data">
+                <img src="./assets/images/money_icon.svg" class="currency-symbol">
+                <div class="currency-info">
+                    <h1 class="currency-name">Salario</h1>
+                    <p class="currency-amount negative-currency">R$0.00</p>
+                </div>
+                <img src="./assets/images/expand_more.svg" class="currency-expand">
+            </div>
+            <div class="currency-details">
+                Descrição: Lorem ipsum dolor sit amet consectetur adipisicing elit. Vero
+                tempore nesciunt sunt sapiente veritatis hic nulla asperiores! 
+                Quisquam doloribus excepturi nesciunt error autem. Minus enim quo porro provident suscipit omnis.
+            </div>
+        </div>           
+*/

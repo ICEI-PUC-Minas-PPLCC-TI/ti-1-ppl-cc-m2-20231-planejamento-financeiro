@@ -1,4 +1,4 @@
-/*(() => {
+(() => {
     const arrayUserDataHandler = new ArrayUserDataHandler();
 
     const selectedUser = {user: null};
@@ -13,4 +13,4 @@
     createEditProfileScreen = new CreateEditProfileScreen(selectedUser);
 
     createSelectProfileScreen.build();
-})();*/
+})();
