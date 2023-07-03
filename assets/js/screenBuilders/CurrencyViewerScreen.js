@@ -1,3 +1,0 @@
-class CurrencyViewerScreen extends ScreenBuilder{
-    
-}

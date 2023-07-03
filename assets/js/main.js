@@ -1,17 +1,16 @@
-function returnUserExample() {
-    return {
-        id: 1,
-        name: "teste",
-        profilePic: "https://ichef.bbci.co.uk/news/640/amz/worldservice/live/assets/images/2015/09/26/150926165742__85730600_monkey2.jpg",
-        recScore: 1
-    }
-}
+/*(() => {
+    const arrayUserDataHandler = new ArrayUserDataHandler();
 
+    const selectedUser = {user: null};
 
+    const prevScreen = {screen: null}
 
-(() => {
-    const createProfileScreen = new CreateProfileScreen(), 
-    createSelectProfileScreen = new CreateSelectProfileScreen({profiles: [returnUserExample()]}, createProfileScreen);
+    const createRecViwerScreen = new CreateRecViewerScreen(selectedUser, prevScreen), 
+    createChartViewerScreen = new CreateChartViewerScreen(selectedUser, prevScreen),
+    createCurrencyViewerScreen = new CreateCurrencyViewerScreen(selectedUser, createChartViewerScreen, createRecViwerScreen, prevScreen), 
+    createProfileScreen = new CreateProfileScreen(createCurrencyViewerScreen, arrayUserDataHandler, selectedUser), 
+    createSelectProfileScreen = new CreateSelectProfileScreen(arrayUserDataHandler, createProfileScreen, createCurrencyViewerScreen, selectedUser),
+    createEditProfileScreen = new CreateEditProfileScreen(selectedUser);
 
     createSelectProfileScreen.build();
-})();
+})();*/

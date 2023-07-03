@@ -1,3 +1,0 @@
-class ChartViewerScreen extends ScreenBuilder{
-    
-}

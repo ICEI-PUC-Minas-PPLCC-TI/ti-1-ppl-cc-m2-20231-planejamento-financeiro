@@ -92,14 +92,51 @@ footer img{
     width: 56px;
 }
 
-#currency-container-info{
+#currency-container-info {
     display: flex;
     align-items: center;
     flex-direction: column;
     margin-top: 5px;
 }
 
-#user-info-container{
+#add-currency-container {
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+}
+
+#add-currency-description{
+    height: 50%;
+}
+
+#add-currency-title-input{
+    padding: 10px;
+    border-radius: 25px;
+    border: 1px solid black;
+    font-family: var(--default-text-font);
+    text-align: center;
+}
+
+#add-currency-button{
+    padding: 10px;
+    width: 25%;
+    align-self: center;
+}
+
+#add-currency-select{
+    border: 1px solid black;
+    border-radius: 25px;
+    padding: 5px;
+}
+
+#add-currency-description{
+    border-radius: 25px;
+    border: 1px solid black;
+    resize: none;
+}
+
+.floating-container {
     display: flex;
     flex-direction: column;
     justify-content: space-between;
@@ -115,7 +152,7 @@ footer img{
     height: 75%;
 }
 
-#user-info-container h1{
+.floating-container h1{
     font-family: var(--default-text-font);
     font-size: 56px;
 }
@@ -194,6 +231,31 @@ footer img{
 
 #no {
     margin-left: 25%;
+}
+
+.currency-container {
+    width: 90%;
+    border-bottom: 1px solid black;
+    padding: 10px;
+    font-family: var(--default-text-font);
+    display: flex;
+    flex-direction: column;
+}
+
+.currency-expand {
+    margin-left: auto;
+}
+
+.currency-name {
+    justify-self: center;
+}
+
+.currency-data {
+    display: flex;
+}
+
+.currency-details{
+    margin-top: 25px;
 }
 
 .green-button {

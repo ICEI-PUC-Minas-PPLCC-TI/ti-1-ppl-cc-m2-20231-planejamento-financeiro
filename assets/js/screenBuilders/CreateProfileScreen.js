@@ -1,15 +1,20 @@
 class CreateProfileScreen extends ScreenBuilder{
     #userdata;
     #nextScreenHandlerClassObject;
-    #dataHandler;
+    #arrayUserDataHandler;
+    #selectedUser;
 
-    constructor(nextScreenHandlerClassObject, dataHandler) {
+    constructor(nextScreenHandlerClassObject, arrayUserDataHandler, selectedUser) {
         super();
+
         this.#userdata = {};
         this.#nextScreenHandlerClassObject = nextScreenHandlerClassObject;
-        this.#dataHandler = dataHandler;
+        this.#arrayUserDataHandler = arrayUserDataHandler;
+        this.#selectedUser = selectedUser;
 
-        this.#userdata["score"] = 0;
+        this.#userdata["recScore"] = 0;
+
+        this.#userdata["profilePic"] = "";
     }
 
     build() {
@@ -110,7 +115,7 @@ class CreateProfileScreen extends ScreenBuilder{
                 if (selectedRadio != null) {
 
                     if (selectedRadio.id == "yes") {
-                        this.#userdata["score"]++;
+                        this.#userdata["recScore"]++;
                     }
 
                     this.#createThirdQuestion();
@@ -121,8 +126,6 @@ class CreateProfileScreen extends ScreenBuilder{
         createProfileQuestionQuestion.id = "create-profile-question-question";
 
         createProfileQuestionOptions.id = "create-profile-question-options";
-
-
 
         createProfileQuestionOptions.appendChild(yesRadio);
         createProfileQuestionOptions.appendChild(yesLabel);
@@ -149,11 +152,31 @@ class CreateProfileScreen extends ScreenBuilder{
                 if (selectedRadio != null) {
 
                     if (selectedRadio.id == "no") {
-                        this.#userdata["score"]++;
+                        this.#userdata["recScore"]++;
                     }
 
                     if (this.#nextScreenHandlerClassObject != null ) {
+                        const userListLastIndex = this.#arrayUserDataHandler.getLastIndex();
+
+                        if (userListLastIndex < 0) {
+                            this.#userdata["id"] = 0;
+                        }
+
+                        else {
+                            const lastUser = this.#arrayUserDataHandler.getUserByIndex(userListLastIndex);
+
+                            this.#userdata["id"] = lastUser.getProfileInfo().id + 1;
+                        }
+
+                        this.#selectedUser.user = new UserDataHandler({
+                            profileInfo: new ProfileDataHandler(this.#userdata) ,
+                            currencyInfo: new CurrencyDataHandler()
+                        });
+
+                        this.#arrayUserDataHandler.appendData({users: [this.#selectedUser.user]});
+                        
                         this.#nextScreenHandlerClassObject.build();
+                        
                     }
                     
                 }

@@ -1,19 +1,25 @@
 class CreateSelectProfileScreen extends ScreenBuilder{
     #data;
     #nextScreenHandlerClassObject;
+    #selectedUser;
 
-    constructor (data, nextScreenHandlerClassObject) {
+    constructor (arrayUserDataHandler, nextScreenHandlerClassObject, currencyScreenHandlerClassObject, selectedUser) {
         super();
 
-        if (!data || !data.profiles) throw new Error("Invalid profile list");
+        if (!arrayUserDataHandler) throw new Error("Invalid profile list");
 
-        data.profiles.forEach(p => { 
+        arrayUserDataHandler.getProfiles().profiles.forEach(p => { 
             if(!DataUtil.validateSchema(this._returnSchema, p))
                 throw new TypeError("Invalid profile");
         })
 
-        this.#data = data;
+        if (selectedUser.user != null && currencyScreenHandlerClassObject != null) {
+            currencyScreenHandlerClassObject.build();
+        }
+
+        this.#data = arrayUserDataHandler;
         this.#nextScreenHandlerClassObject = nextScreenHandlerClassObject;
+        this.#selectedUser = selectedUser;
     }
     
     build() {
@@ -25,7 +31,7 @@ class CreateSelectProfileScreen extends ScreenBuilder{
               pageTitle = document.createElement("h1"),
               createProfileButton = document.createElement("button");
 
-        this.#data.profiles.forEach(p => {
+        this.#data.getData().users.forEach(p => {
             sectionElement.appendChild(this._createProfileElement(p));
         })
         
@@ -49,7 +55,9 @@ class CreateSelectProfileScreen extends ScreenBuilder{
         footerElement.appendChild(createProfileButton);
     }
 
-    _createProfileElement(profile) {
+    _createProfileElement(userDataHandler) {
+        profile = userDataHandler.getProfileInfo();
+
         const profileMenuItem = document.createElement("div"),
               profileMenuImage = document.createElement("img"),
               profileMenuName = document.createElement("h1"),
@@ -70,6 +78,11 @@ class CreateSelectProfileScreen extends ScreenBuilder{
         profileMenuItem.appendChild(profileMenuImage);
         profileMenuItem.appendChild(profileMenuName);
         profileMenuItem.appendChild(profileMenuTrash);
+
+        profileMenuImage.addEventListener("click", () => {
+            this.#selectedUser.user = userDataHandler;
+            currencyScreenHandlerClassObject.build();
+        })
 
         return profileMenuItem;
     }
