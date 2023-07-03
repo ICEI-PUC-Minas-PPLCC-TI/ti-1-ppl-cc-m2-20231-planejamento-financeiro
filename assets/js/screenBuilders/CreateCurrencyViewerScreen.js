@@ -102,5 +102,26 @@ class CreateCurrencyViewerScreen extends ScreenBuilder{
         return currencyContainer;
     }
 
-    
+    //todo: create add currencies system
+    /*
+        <div id="add-currency" class="floating-container">
+            <div id="add-currency-container">
+                <input type="text" placeholder="Titulo" id="add-currency-title-input">
+                <div id="add-currency-data">
+                    <select id="add-currency-select">
+                        <optgroup>
+                            <option>Entrada</option>
+                            <option>Saida</option>
+                        </optgroup>
+                    </select>
+                    <input type="date">
+                    <input type="number" placeholder="Valor">
+                </div>
+                <textarea id="add-currency-description">
+
+                </textarea>
+                <button class="green-button" id="add-currency-button">Adicionar</button>
+            </div>
+        </div>
+    */    
 }
